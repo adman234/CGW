@@ -1,7 +1,8 @@
 # Columbia Gadget Works Wiki
 
-Welcome to the official wiki for Columbia Gadget Works (CGW), a community makerspace based in Columbia, Missouri.  
-This wiki is a central resource for members, volunteers, and guests.
+Welcome to the official wiki for Columbia Gadget Works (CGW), a community makerspace based in Columbia, Missouri.
+
+This wiki is a central resource for members, volunteers, and guests. Feel free to make a pull request to edit the wiki.
 
 ---
 
